@@ -44,6 +44,7 @@
     "tap": "^12.0.1"
   },
   "dependencies": {
+    "consecutive": "^5.0.4",
     "chalk": "^2.4.1",
     "cli-table3": "^0.5.1",
     "color-support": "^1.1.1",
